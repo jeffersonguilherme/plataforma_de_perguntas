@@ -1,0 +1,14 @@
+body {
+    background-color: #eceff1;
+}
+#formulario-pergunta{
+    margin-top: 5vh;
+}
+
+#btn-limpar{
+    margin-left: 15px;
+}
+
+.card-top{
+    margin-top: 20px;
+}
