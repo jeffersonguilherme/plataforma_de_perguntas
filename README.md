@@ -37,7 +37,7 @@ mais completo. Podendo futuramente funcionar como uma rede social completa.
 
 ## Funcionalidades e Demonstração da Aplicação
 
-![SPA](https://user-images.githubusercontent.com/131220482/235494117-fd45205f-96c7-493f-870c-5985272adcaf.gif)
+![SPA](https://raw.githubusercontent.com/jeffersonguilherme/plataforma_de_perguntas/main/Captura%20de%20tela%20de%202023-09-24%2019-37-14.pn)
 
 - `Funcionalidade 1`: Adição de perguntas
 - `Funcionalidade 2`: Adição de respotas para as perguntas existentes. 
