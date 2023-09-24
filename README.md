@@ -9,7 +9,7 @@ para perguntas de usuários além de algums inteações.
 
 Este projeto se trata de uma plataforma de perguntas e respostas anônimas. Feita com base nos conhecimento adiriquindos no curso de formação Node.js.
 
-![projeto](https://raw.githubusercontent.com/jeffersonguilherme/plataforma_de_perguntas/main/Captura%20de%20tela%20de%202023-09-24%2019-37-14.pn)
+![projeto](https://raw.githubusercontent.com/jeffersonguilherme/plataforma_de_perguntas/main/Captura%20de%20tela%20de%202023-09-24%2019-37-14.png)
 
 # Índice
 
